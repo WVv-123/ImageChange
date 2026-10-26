@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*.spec
+.venv/
+venv/
+build/
+dist/
+tmp/
+.idea/
+.vscode/
+*.log
+conversion-report.json
