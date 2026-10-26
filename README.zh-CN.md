@@ -16,6 +16,26 @@ ImageChange 是一款完全本地运行的 Windows 图片格式转换器，基�
 - 支持适应边界、填充裁切和拉伸到指定尺寸。
 - 全程离线，不上传文件或路径。
 
+## 功能预览
+
+### 中英文界面
+
+切换语言时不会丢失当前文件队列或转换设置。程序默认使用中文，并会记住上次选择的语言。
+
+![英文界面加载图片和 PDF 后的效果](docs/images/feature-language-en.png)
+
+### PDF 页面转换
+
+可以选择渲染清晰度，并导出全部页面、仅首页或 `1-3,5,8` 形式的指定页码。
+
+![PDF 清晰度和页码设置](docs/images/feature-pdf-settings.png)
+
+### 批量转换结果
+
+图片和 PDF 可以进入同一个任务队列，完成后逐项显示转换结果和体积变化。
+
+![批量转换完成结果](docs/images/feature-batch-results.png)
+
 ## 下载与运行
 
 从 GitHub Release 下载 `ImageChange-3.0.0-win64.zip`，解压后保持 `ImageChange.exe` 与 `tools` 文件夹位于同一目录。

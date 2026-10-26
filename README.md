@@ -4,7 +4,7 @@ ImageChange is a local Windows image converter built with Python, Tkinter, Pillo
 
 [简体中文](README.zh-CN.md)
 
-
+![ImageChange English interface](docs/images/interface-en.png)
 
 ## Highlights
 
@@ -15,6 +15,26 @@ ImageChange is a local Windows image converter built with Python, Tkinter, Pillo
 - Preserve original PDFs and protect image replacement with confirmation and rollback.
 - Resize by fitting, filling and cropping, or stretching to exact dimensions.
 - Run fully offline. Files and paths are never uploaded.
+
+## Feature preview
+
+### Chinese and English interface
+
+Switch languages without losing the current file queue or conversion settings. Chinese remains the default, and the selected language is remembered.
+
+![English interface with image and PDF files loaded](docs/images/feature-language-en.png)
+
+### PDF page rendering
+
+Choose a rendering resolution and export every page, the first page, or a page range such as `1-3,5,8`.
+
+![PDF resolution and page range settings](docs/images/feature-pdf-settings.png)
+
+### Batch conversion results
+
+Process images and PDFs in one queue while tracking the result and size change for each file.
+
+![Completed batch conversion results](docs/images/feature-batch-results.png)
 
 ## Download
 
