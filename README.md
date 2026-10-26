@@ -4,7 +4,7 @@ ImageChange is a local Windows image converter built with Python, Tkinter, Pillo
 
 [简体中文](README.zh-CN.md)
 
-![ImageChange English interface](docs/images/interface-en.png)
+
 
 ## Highlights
 
